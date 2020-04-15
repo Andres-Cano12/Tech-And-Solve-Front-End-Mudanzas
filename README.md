@@ -2,5 +2,7 @@
 Correr el comando npm install,
 Luego correr el comando ng serve
 
-# Nota una vez se corre el comando mpn install aparece un mensaje diciendo que unos paquetes tiene vulnerabilidades, se debe omitir este mensaje y correr el comando ng serve
+# Nota
+
+Una vez se corre el comando mpn install aparece un mensaje diciendo que unos paquetes tiene vulnerabilidades, se debe omitir este mensaje y correr el comando ng serve
 
